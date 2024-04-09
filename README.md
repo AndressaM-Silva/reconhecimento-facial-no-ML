@@ -1,5 +1,5 @@
-# reconhecimento-facial-no-ML
-projeto da DIO para reconhecimento facial e de imagens 
+# Reconhecimento-facial-no-ML
+#### Projeto da DIO para reconhecimento facial e de imagens 
 
 ## Segue a imagem como objetvo alcançado no Estudio Azure, levei cerda de semanas pra enterder por que não consegui um grupo de recursos compativeis, esclui todos os grupo de recursos criei um novo do zero configurei o grupo de recurso, depois o recurso um si e ai consegue relacionar o portal azure para conseguir carregar as imagens e autorizar o uso do aplicativo.
 Resultado (minha foto sendo analisada):
